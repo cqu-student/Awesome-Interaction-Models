@@ -8,6 +8,7 @@
 
 - [Multimodal Interaction (多模态交互)](#multimodal-interaction-多模态交互)
 - [Text Interaction (文本交互)](#text-interaction-文本交互)
+- [Speech Interaction (语音交互)](#speech-interaction-语音交互)
 - [Image Interaction (图像交互)](#image-interaction-图像交互)
 - [Video Interaction (视频交互)](#video-interaction-视频交互)
 - [Contributing](#contributing)
@@ -29,6 +30,14 @@
 |------|-------|-------|------|---------|
 | 2025-07 | Teaching Language Models To Gather Information Proactively | [Paper](https://arxiv.org/abs/2507.21389) | [Code](https://github.com/tenghaohuang/Teaching-Language-Models-To-Gather-Information-Proactively) | 训练LLM主动提问收集信息，从被动文本生成器提升为协作思考伙伴 |
 | 2024-10 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2410.12361) | [Code](https://github.com/thunlp/ProactiveAgent) | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
+
+---
+
+## Speech Interaction (语音交互)
+
+| Date | Title | Paper | Code | Comment |
+|------|-------|-------|------|---------|
+| 2024-10 | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/abs/2410.00037) | [Code](https://github.com/kyutai-labs/moshi) | 提出面向实时对话的 full-duplex 语音对话模型，直接建模语音到语音交互，支持低延迟响应、用户打断、重叠语音与自然轮次管理 |
 
 ---
 
