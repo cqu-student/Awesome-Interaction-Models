@@ -15,7 +15,7 @@
 
 ---
 
-## Multimodal Interaction (多模态交互)
+## Survey (综述)
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
