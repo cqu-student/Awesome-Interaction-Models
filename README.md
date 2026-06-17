@@ -18,6 +18,8 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2025-12 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2512.06810) |  | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
+| 2025-07 | Teaching Language Models To Gather Information Proactively | [Paper](https://arxiv.org/abs/2507.21389) |  | 训练LLM主动提问收集信息，从被动文本生成器提升为协作思考伙伴 |
 
 ---
 
@@ -25,6 +27,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2025-07 | Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions | [Paper](https://arxiv.org/abs/2507.13773) |  | 训练视觉语言模型主动提问以解决视觉问答中的歧义问题 |
 
 ---
 
@@ -33,8 +36,8 @@
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
 | 2025-07 | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models | [Paper](https://arxiv.org/abs/2507.09313) |  | 评估视频大语言模型主动交互能力的综合基准 |
+| 2024-11 | VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format | [Paper](https://arxiv.org/abs/2411.17991) | [Code](https://github.com/yellow-binary-tree/MMDuet) | 提出Video-Text Duet互动格式，让VideoLLM感知说话时机以提升时序视频理解 |
 | 2024-10 | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning | [Paper](https://arxiv.org/abs/2410.12361) |  | 通过多轮强化学习提升视频多模态大模型主动交互能力 |
-| 2025-12 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2512.06810) |  | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
 
 ---
 
