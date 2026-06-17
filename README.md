@@ -37,6 +37,8 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2025-07 | Full-Duplex-Bench v1.5: Evaluating Overlap Handling for Full-Duplex Speech Models | [Paper](https://arxiv.org/abs/2507.23159) | [Code](https://github.com/DanielLin94144/Full-Duplex-Bench) | Full-Duplex-Bench 的扩展版本，关注重叠语音处理，覆盖用户打断、听者附和、旁路对话和环境语音等场景 |
+| 2025-03 | Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities | [Paper](https://arxiv.org/abs/2503.04721) | [Code](https://github.com/DanielLin94144/Full-Duplex-Bench) | 面向全双工语音对话模型的交互评测基准，关注停顿处理、附和反馈、轮次管理和用户打断等能力 |
 | 2024-10 | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/abs/2410.00037) | [Code](https://github.com/kyutai-labs/moshi) | 提出面向实时对话的 full-duplex 语音对话模型，直接建模语音到语音交互，支持低延迟响应、用户打断、重叠语音与自然轮次管理 |
 
 ---
