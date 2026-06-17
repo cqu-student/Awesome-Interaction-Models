@@ -6,11 +6,20 @@
 
 ## 目录
 
+- [Multimodal Interaction (多模态交互)](#multimodal-interaction-多模态交互)
 - [Text Interaction (文本交互)](#text-interaction-文本交互)
 - [Image Interaction (图像交互)](#image-interaction-图像交互)
 - [Video Interaction (视频交互)](#video-interaction-视频交互)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
+
+## Multimodal Interaction (多模态交互)
+
+| Date | Title | Paper | Code | Comment |
+|------|-------|-------|------|---------|
+| 2024-01 | Agent AI: Surveying the Horizons of Multimodal Interaction | [Paper](https://arxiv.org/abs/2401.03568) | - | 系统性综述Agent AI领域，定义多模态交互式智能体系统，涵盖视觉、语言等环境感知与具身动作生成 |
 
 ---
 
