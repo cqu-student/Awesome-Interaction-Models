@@ -12,8 +12,13 @@ jobs:
       contains(github.event.comment.body, '/oc') ||
       contains(github.event.comment.body, '/opencode')
     runs-on: ubuntu-latest
+
     permissions:
       id-token: write
+      contents: write
+      pull-requests: write
+      issues: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -24,6 +29,7 @@ jobs:
       - name: Run OpenCode
         uses: anomalyco/opencode/github@latest
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         with:
           model: deepseek/deepseek-v4-pro
+          # share: false
