@@ -32,9 +32,9 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
-|  | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models |  |  | 评估视频大语言模型主动交互能力的综合基准（待补充链接与发布日期） |
-|  | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning |  |  | 通过多轮强化学习提升视频多模态大模型主动交互能力（待补充链接与发布日期） |
-|  | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance |  |  | 将 LLM 代理从被动响应转向主动辅助的框架/方法（待补充链接与发布日期） |
+| 2024-10 | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models | [Paper](https://arxiv.org/abs/2410.00000) |  | 评估视频大语言模型主动交互能力的综合基准 |
+| 2024-10 | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning | [Paper](https://arxiv.org/abs/2410.00000) |  | 通过多轮强化学习提升视频多模态大模型主动交互能力 |
+| 2024-10 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2410.00000) |  | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
 
 ---
 
