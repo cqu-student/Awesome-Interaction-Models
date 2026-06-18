@@ -28,6 +28,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2025-03 | Qwen2.5-Omni Technical Report | [Paper](https://arxiv.org/abs/2503.20215) | [Code](https://github.com/QwenLM/Qwen2.5-Omni) | 统一处理文本、图像、音频与视频输入，并支持文本和自然语音流式输出，推动实时多模态交互 |
 
 ---
 
