@@ -51,6 +51,7 @@
 | 2025-07 | Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions | [Paper](https://arxiv.org/abs/2507.13773) | [Code](https://github.com/jian0805/ClearVQA) | 训练视觉语言模型主动提问以解决视觉问答中的歧义问题 |
 | 2023-11 | GLaMM: Pixel Grounding Large Multimodal Model | [Paper](https://arxiv.org/abs/2311.03356) | [Code](https://github.com/mbzuai-oryx/groundingLMM) | 将多模态对话与像素级 grounding 结合，使自然语言回答中的目标可对应到图像中像素级 mask |
 | 2023-10 | Ferret: Refer and Ground Anything Anywhere at Any Granularity | [Paper](https://arxiv.org/abs/2310.07704) | [Code](https://github.com/apple/ml-ferret) | 支持点、框、自由形状等任意区域输入，可围绕图中具体区域进行指代和定位 |
+| 2023-08 | LISA: Reasoning Segmentation via Large Language Model | [Paper](https://arxiv.org/abs/2308.00692) | [Code](https://github.com/JIA-Lab-research/LISA) | 提出 reasoning segmentation任务，使模型先根据复杂或隐含的自然语言指令推理用户意图，再分割目标 |
 | 2023-04 | Visual Instruction Tuning | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) | 提出 LLaVA（Large Language and Visual Assistant），通过视觉指令微调构建通用图像-文本对话助手 |
 | 2023-04 | Segment Anything | [Paper](https://arxiv.org/abs/2304.02643) | [Code](https://github.com/facebookresearch/segment-anything) | 提出 promptable segmentation，允许用户通过点、框、mask 等提示告诉模型要分割的目标 |
 | 2023-03 | Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models | [Paper](https://arxiv.org/abs/2303.04671) | [Code](https://github.com/microsoft/visual-chatgpt) | 连接 ChatGPT 与视觉基础模型，支持图像问答、绘制、编辑和反馈式交互 |
