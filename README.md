@@ -24,6 +24,13 @@
 
 ---
 
+## Multimodal Interaction (多模态交互)
+
+| Date | Title | Paper | Code | Comment |
+|------|-------|-------|------|---------|
+
+---
+
 ## Text Interaction (文本交互)
 
 | Date | Title | Paper | Code | Comment |
