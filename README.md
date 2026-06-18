@@ -49,6 +49,9 @@
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
 | 2025-07 | Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions | [Paper](https://arxiv.org/abs/2507.13773) | [Code](https://github.com/jian0805/ClearVQA) | 训练视觉语言模型主动提问以解决视觉问答中的歧义问题 |
+| 2023-04 | Segment Anything | [Paper](https://arxiv.org/abs/2304.02643) | [Code](https://github.com/facebookresearch/segment-anything) | 提出 promptable segmentation，允许用户通过点、框、mask 等提示告诉模型要分割的目标 |
+| 2023-03 | Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models | [Paper](https://arxiv.org/abs/2303.04671) | [Code](https://github.com/microsoft/visual-chatgpt) | 连接 ChatGPT 与视觉基础模型，支持图像问答、绘制、编辑和反馈式交互 |
+| 2016-11 | Visual Dialog | [Paper](https://arxiv.org/abs/1611.08669) | [Code](https://github.com/batra-mlp-lab/visdial) | 提出围绕图像进行多轮问答的视觉对话任务，是图像交互研究的早期代表工作 |
 
 ---
 
