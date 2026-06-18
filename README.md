@@ -35,6 +35,7 @@
 | 2024-10 | Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions | [Paper](https://arxiv.org/abs/2410.13788) | - | 通过建模后续对话结果训练模型在面对歧义请求时主动提出澄清问题 |
 | 2024-10 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2410.12361) | [Code](https://github.com/thunlp/ProactiveAgent) | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
 | 2024-09 | ClarQ-LLM: A Benchmark for Models Clarifying and Requesting Information in Task-Oriented Dialog | [Paper](https://arxiv.org/abs/2409.06097) | [Code](https://github.com/ygan/ClarQ-LLM) | 面向任务型对话的澄清问题评测基准，考察模型通过提问补全关键信息的能力 |
+| 2024-07 | Towards Human-centered Proactive Conversational Agents | [Paper](https://arxiv.org/abs/2404.12670) | - | 从人本交互角度讨论主动对话代理，强调主动性需要兼顾用户需求、适应性与不过度打扰 |
 | 2024-03 | STaR-GATE: Teaching Language Models to Ask Clarifying Questions | [Paper](https://arxiv.org/abs/2403.19154) | [Code](https://github.com/scandukuri/assistant-gate) | 通过自我改进训练模型提出更有用的澄清问题，从而生成更符合用户偏好的回复 |
 | 2023-10 | Eliciting Human Preferences with Language Models | [Paper](https://arxiv.org/abs/2310.11589) | [Code](https://github.com/alextamkin/generative-elicitation) | 提出 GATE 框架，让语言模型通过自由文本交互主动引出用户偏好和任务意图 |
 
