@@ -30,6 +30,7 @@
 |------|-------|-------|------|---------|
 | 2025-07 | Teaching Language Models To Gather Information Proactively | [Paper](https://arxiv.org/abs/2507.21389) | [Code](https://github.com/tenghaohuang/Teaching-Language-Models-To-Gather-Information-Proactively) | 训练LLM主动提问收集信息，从被动文本生成器提升为协作思考伙伴 |
 | 2025-04 | Proactive Conversational Agents with Inner Thoughts | [Paper](https://arxiv.org/abs/2501.00383) | [Code](https://github.com/xybruceliu/thoughtful-agents) | 提出 Inner Thoughts 框架，让对话代理在多方交流中形成内部想法，并在合适时机主动参与对话 |
+| 2025-02 | CollabLLM: From Passive Responders to Active Collaborators | [Paper](https://arxiv.org/abs/2502.00640) | [Code](https://github.com/Wuyxin/collabllm) | 训练语言模型在多轮任务中主动理解用户意图并提出建议，从被动回答者转向主动协作者 |
 | 2025-01 | Clarify When Necessary: Resolving Ambiguity Through Interaction with LMs | [Paper](https://arxiv.org/abs/2311.09469) | - | 研究模型何时需要向用户澄清、该问什么问题，以及如何利用用户补充信息完成任务 |
 | 2024-10 | Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions | [Paper](https://arxiv.org/abs/2410.13788) | - | 通过建模后续对话结果训练模型在面对歧义请求时主动提出澄清问题 |
 | 2024-10 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2410.12361) | [Code](https://github.com/thunlp/ProactiveAgent) | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
