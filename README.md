@@ -1,4 +1,4 @@
-# Awesome Interaction Models
+<img width="1062" height="82" alt="image" src="https://github.com/user-attachments/assets/0bd795f7-8094-4508-af43-4158b9f12aa3" /># Awesome Interaction Models
 
 > 一份精心策划的交互模型资源列表，包括文本、语音、图像和视频交互领域的顶级文章和开源项目。
 
@@ -29,6 +29,7 @@
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
 | 2025-07 | Teaching Language Models To Gather Information Proactively | [Paper](https://arxiv.org/abs/2507.21389) | [Code](https://github.com/tenghaohuang/Teaching-Language-Models-To-Gather-Information-Proactively) | 训练LLM主动提问收集信息，从被动文本生成器提升为协作思考伙伴 |
+| 2025-04 | Proactive Conversational Agents with Inner Thoughts | [Paper](https://arxiv.org/abs/2501.00383) | [Code](https://github.com/xybruceliu/thoughtful-agents) | 提出 Inner Thoughts 框架，让对话代理在多方交流中形成内部想法，并在合适时机主动参与对话 |
 | 2025-01 | Clarify When Necessary: Resolving Ambiguity Through Interaction with LMs | [Paper](https://arxiv.org/abs/2311.09469) | - | 研究模型何时需要向用户澄清、该问什么问题，以及如何利用用户补充信息完成任务 |
 | 2024-10 | Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions | [Paper](https://arxiv.org/abs/2410.13788) | - | 通过建模后续对话结果训练模型在面对歧义请求时主动提出澄清问题 |
 | 2024-10 | Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance | [Paper](https://arxiv.org/abs/2410.12361) | [Code](https://github.com/thunlp/ProactiveAgent) | 将 LLM 代理从被动响应转向主动辅助的框架/方法 |
