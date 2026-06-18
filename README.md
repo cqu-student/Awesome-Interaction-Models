@@ -81,6 +81,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2025-12 | OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding | [Paper](https://arxiv.org/abs/2512.23646) | [Code](https://github.com/KD-TAO/OmniAgent) | 首个音频引导的主动感知代理，动态调度工具实现细粒度音视频推理 |
 | 2025-12 | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning | [Paper](https://arxiv.org/abs/2512.06810) | [Code](https://github.com/yellow-binary-tree/MMDuet2) | 通过多轮强化学习提升视频多模态大模型主动交互能力 |
 | 2025-07 | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models | [Paper](https://arxiv.org/abs/2507.09313) | [Code](https://github.com/yellow-binary-tree/ProactiveVideoQA) | 评估视频大语言模型主动交互能力的综合基准 |
 | 2024-11 | VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format | [Paper](https://arxiv.org/abs/2411.17991) | [Code](https://github.com/yellow-binary-tree/MMDuet) | 提出Video-Text Duet互动格式，让VideoLLM感知说话时机以提升时序视频理解 |
