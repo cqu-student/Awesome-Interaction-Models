@@ -1,4 +1,4 @@
-<img width="1062" height="82" alt="image" src="https://github.com/user-attachments/assets/0bd795f7-8094-4508-af43-4158b9f12aa3" /># Awesome Interaction Models
+
 
 > 一份精心策划的交互模型资源列表，包括文本、语音、图像和视频交互领域的顶级文章和开源项目。
 
