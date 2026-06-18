@@ -29,6 +29,8 @@
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
 | 2025-03 | Qwen2.5-Omni Technical Report | [Paper](https://arxiv.org/abs/2503.20215) | [Code](https://github.com/QwenLM/Qwen2.5-Omni) | 统一处理文本、图像、音频与视频输入，并支持文本和自然语音流式输出，推动实时多模态交互 |
+| 2024-08 | VITA: Towards Open-Source Interactive Omni Multimodal LLM | [Paper](https://arxiv.org/abs/2408.05211) | [Code](https://github.com/VITA-MLLM/VITA) | 面向图像、视频、文本和音频的开源交互式全模态模型，强调自然的人机多模态交互 |
+| 2024-02 | AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling | [Paper](https://arxiv.org/abs/2402.12226) | [Code](https://github.com/OpenMOSS/AnyGPT) | 用离散序列统一建模语音、文本、图像和音乐，支持多轮任意模态对话 |
 
 ---
 
