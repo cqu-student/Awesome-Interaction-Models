@@ -56,8 +56,8 @@
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
 | 2026-01 | PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models | [Paper](https://arxiv.org/abs/2602.06053) | [Code](https://github.com/NVIDIA/personaplex) | 面向实时 speech-to-speech 交互的全双工语音模型，在 Moshi 基础上加入了角色与声音控制 |
-| 2025-06 | NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction | [Paper](https://arxiv.org/abs/2506.00975) | [Code](https://github.com/Chaos96/NTPP) | 提出 next-token-pair prediction，用双通道语音数据建模对话双方的同步交互 |
 | 2025-07 | Full-Duplex-Bench v1.5: Evaluating Overlap Handling for Full-Duplex Speech Models | [Paper](https://arxiv.org/abs/2507.23159) | [Code](https://github.com/DanielLin94144/Full-Duplex-Bench) | Full-Duplex-Bench 的扩展版本，关注重叠语音处理，覆盖用户打断、听者附和、旁路对话和环境语音等场景 |
+| 2025-06 | NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction | [Paper](https://arxiv.org/abs/2506.00975) | [Code](https://github.com/Chaos96/NTPP) | 提出 next-token-pair prediction，用双通道语音数据建模对话双方的同步交互 |
 | 2025-05 | SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model | [Paper](https://arxiv.org/abs/2505.15670) | [Code](https://github.com/cchen1436/NeMo/tree/main/examples/speechlm2) | 直接建模用户语音输入与智能体语音输出双流，支持 speech-to-speech 的全双工交互 |
 | 2025-03 | Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities | [Paper](https://arxiv.org/abs/2503.04721) | [Code](https://github.com/DanielLin94144/Full-Duplex-Bench) | 面向全双工语音对话模型的交互评测基准，关注停顿处理、附和反馈、轮次管理和用户打断等能力 |
 | 2025-02 | FlexDuo: A Pluggable System for Enabling Full-Duplex Capabilities in Speech Dialogue Systems | [Paper](https://arxiv.org/abs/2502.13472) | - | 提出可插拔的全双工控制模块，将 duplex control 从语音对话系统中解耦出来 |
