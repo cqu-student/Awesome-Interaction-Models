@@ -48,6 +48,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2026-06 | JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence | [Paper](https://arxiv.org/abs/2606.14777) | [Code](https://github.com/jd-opensource/JoyAI-VL-Interaction) | 视觉驱动的VL交互模型，自主决策静默/响应/委托，实现实时视觉-语言交互智能 |
 | 2025-12 | OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding | [Paper](https://arxiv.org/abs/2512.23646) | [Code](https://github.com/KD-TAO/OmniAgent) | 首个音频引导的主动感知代理，动态调度工具实现细粒度音视频推理 |
 | 2025-12 | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning | [Paper](https://arxiv.org/abs/2512.06810) | [Code](https://github.com/yellow-binary-tree/MMDuet2) | 通过多轮强化学习提升视频多模态大模型主动交互能力 |
 | 2025-07 | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models | [Paper](https://arxiv.org/abs/2507.09313) | [Code](https://github.com/yellow-binary-tree/ProactiveVideoQA) | 评估视频大语言模型主动交互能力的综合基准 |
