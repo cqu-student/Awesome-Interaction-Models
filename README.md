@@ -40,6 +40,7 @@
 | 2024-08 | VITA: Towards Open-Source Interactive Omni Multimodal LLM | [Paper](https://arxiv.org/abs/2408.05211) | [Code](https://github.com/VITA-MLLM/VITA) | 开源交互式 omni multimodal LLM，支持视频、图像、文本和音频的统一理解与交互 |
 | 2024-08 | Language Model Can Listen While Speaking | [Paper](https://arxiv.org/abs/2408.02622) | - | 提出 listening-while-speaking language model，让模型在生成语音时同时监听用户输入 |
 | 2024-05 | A Full-duplex Speech Dialogue Scheme Based On Large Language Models | [Paper](https://arxiv.org/abs/2405.19487) | - | 较早探索基于 LLM 的全双工语音对话方案，通过控制 token 决定等待、响应或打断 |
+| 2019-09 | A Study for Improving Device-Directed Speech Detection Toward Frictionless Human-Machine Interaction | [Paper](https://doi.org/10.21437/Interspeech.2019-2840) | - | Interspeech 2019，设备定向语音检测的早期研究，结合声学与文本特征提升唤醒检测精度 |
 
 ---
 
