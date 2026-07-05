@@ -57,15 +57,20 @@
 | 2026-06 | X-Stream: Multi-Stream Understanding as Multiplexers | [Paper](https://arxiv.org/abs/2606.02482) | [Page](https://peiwensun2000.github.io/xstream/) | 将多流视频理解建模为多路复用器，同时处理多路视频输入 |
 | 2026-05 | IPIBench: Interactive Proactive Intelligence under Continuous Streams | [Paper](https://arxiv.org/abs/2605.27074) | - | 连续流下的交互式主动智能评测基准 |
 | 2026-05 | OmniInteract: Real-World Streaming Interaction Benchmark | [Paper](https://arxiv.org/abs/2605.26485) | [Code](https://github.com/Lucky-Lance/OmniInteract) | 真实世界流式交互评测基准，考察多模态代理的主动交互能力 |
+| 2026-05 | OmniPro: Omni-Proactive Streaming Video Understanding Benchmark | [Paper](https://arxiv.org/abs/2605.18577) | - | 全模态主动流式视频理解，2700样本，9子任务，84%样本需音频信号 |
+| 2026-05 | Omni-DuplexEval: Evaluating Real-time Duplex Omni-modal Interaction | [Paper](https://arxiv.org/abs/2605.17360) | - | 全双工多模态实时交互评测，660视频9任务 |
 | 2026-05 | VideoSeeker: Agentic Tool Invocation for Instance-level Video | [Paper](https://arxiv.org/abs/2605.16079) | [Page](https://gaotiexinqu.github.io/VideoSeeker/) | 面向实例级视频的智能体工具调用，实现更精细的视频交互检索 |
 | 2026-05 | EgoPro-Bench: Personalized Proactive Interaction in Egocentric Video | [Paper](https://arxiv.org/abs/2605.07299) | - | 以自我为中心视频中的个性化主动交互评测基准 |
+| 2026-04 | VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models | [Paper](https://arxiv.org/abs/2604.07634) | [Code](https://github.com/apple/ml-vsas-bench) | Apple出品，CVPR 2026 Findings，18000+标注 |
 | 2026-04 | AURA: Always-On Real-Time Video Understanding & Assistance | [Paper](https://arxiv.org/abs/2604.04184) | - | 始终在线的实时视频理解与辅助助手，持续感知并主动响应用户需求 |
 | 2026-03 | STRIDE: Diffusion-based When-to-Speak for Streaming Video | [Paper](https://arxiv.org/abs/2603.27593) | [Page](https://interlive-team.github.io/STRIDE) | 基于扩散模型的流式视频何时发声决策，实现自然的交互时机预测 |
+| 2026-03 | VST: Video Streaming Thinking — VideoLLMs Can Watch and Think Simultaneously | [Paper](https://arxiv.org/abs/2603.12262) | [Code](https://github.com/1ranGuan/VST) | 边看边思考范式，相比Video-R1快15.7倍 |
 | 2026-03 | RIVER Bench: Real-Time Video Interaction Benchmark | [Paper](https://arxiv.org/abs/2603.03985) | [Code](https://github.com/OpenGVLab/RIVER) | 实时视频交互评测基准，评估模型在流式视频中的交互表现 |
 | 2026-03 | Proact-VL: Proactive VideoLLM for Real-Time AI Companions (ICML 2026) | [Paper](https://arxiv.org/abs/2603.03447) | - | 面向实时AI伴侣的主动视频语言模型，被ICML 2026接收 |
 | 2026-01 | ROMA: Real-time Omni-Multimodal Assistant | [Paper](https://arxiv.org/abs/2601.10323) | [Page](https://eureka-maggie.github.io/ROMA_show) | 实时全模态助手，同时处理音频与视频流实现多模态交互 |
 | 2025-12 | OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding | [Paper](https://arxiv.org/abs/2512.23646) | [Code](https://github.com/KD-TAO/OmniAgent) | 首个音频引导的主动感知代理，动态调度工具实现细粒度音视频推理 |
 | 2025-12 | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning | [Paper](https://arxiv.org/abs/2512.06810) | [Code](https://github.com/yellow-binary-tree/MMDuet2) | 通过多轮强化学习提升视频多模态大模型主动交互能力 |
+| 2025-11 | LiveCook: Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance? | [Paper](https://arxiv.org/abs/2511.21998) | - | NeurIPS 2025，实时任务指导 |
 | 2025-07 | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models | [Paper](https://arxiv.org/abs/2507.09313) | [Code](https://github.com/yellow-binary-tree/ProactiveVideoQA) | 评估视频大语言模型主动交互能力的综合基准 |
 | 2024-11 | VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format | [Paper](https://arxiv.org/abs/2411.17991) | [Code](https://github.com/yellow-binary-tree/MMDuet) | 提出Video-Text Duet互动格式，让VideoLLM感知说话时机以提升时序视频理解 |
 
