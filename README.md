@@ -7,6 +7,7 @@
 ## 目录
 
 - [Survey (综述)](#survey-综述)
+- [Benchmark (评测基准)](#benchmark-评测基准)
 - [Speech Interaction (语音交互)](#speech-interaction-语音交互)
 - [Video Interaction (视频交互)](#video-interaction-视频交互)
 - [Text Interaction (文本交互)](#text-interaction-文本交互)
@@ -22,6 +23,14 @@
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
 | 2024-01 | Agent AI: Surveying the Horizons of Multimodal Interaction | [Paper](https://arxiv.org/abs/2401.03568) | - | 系统性综述Agent AI领域，定义多模态交互式智能体系统，涵盖视觉、语言等环境感知与具身动作生成 |
+
+---
+
+## Benchmark (评测基准)
+
+| Date | Title | Paper | Code | Comment |
+|------|-------|-------|------|---------|
+| 2026-03 | MIBench: Evaluating LMMs on Multimodal Interaction | [Paper](https://arxiv.org/abs/2603.13427) | - | 面向多模态交互能力的综合评测基准，10000+ 视觉-文本上下文对，覆盖32个任务，从视觉/文本信息溯源和联合协同三个维度分级评估LMM的识别、理解与推理能力 |
 
 ---
 
