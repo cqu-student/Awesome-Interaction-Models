@@ -58,6 +58,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2026-07 | Vidu S1: A Real-Time Interactive Video Generation Model | [Paper](https://arxiv.org/abs/2607.03118) | [Demo](https://vidu.com/vidu-stream) | 实时交互视频生成，支持语音控制数字角色，540p下最高42FPS无限长度生成，消费级GPU即可运行 |
 | 2026-06 | LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory | [Paper](https://arxiv.org/abs/2606.17798) | [Code](https://github.com/sotayang/LiveStarPro) | 层次化记忆的主动流式视频理解，在连续视频流中自主决策何时发声 |
 | 2026-06 | JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence | [Paper](https://arxiv.org/abs/2606.14777) | [Code](https://github.com/jd-opensource/JoyAI-VL-Interaction) | 视觉驱动的VL交互模型，自主决策静默/响应/委托，实现实时视觉-语言交互智能 |
 | 2026-06 | Streaming Interventions: Can Video LLMs Correct Mistakes as They Occur? (Ego-CoMist) | [Paper](https://arxiv.org/abs/2606.09547) | [Page](https://apratimbh.github.io/livecookv2/) | 评估视频LLM在流式场景中实时纠正错误的能力，支持主动干预与交互修正 |
