@@ -82,6 +82,7 @@
 | 2025-12 | MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning | [Paper](https://arxiv.org/abs/2512.06810) | [Code](https://github.com/yellow-binary-tree/MMDuet2) | 通过多轮强化学习提升视频多模态大模型主动交互能力 |
 | 2025-11 | LiveCook: Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance? | [Paper](https://arxiv.org/abs/2511.21998) | - | NeurIPS 2025，实时任务指导 |
 | 2025-07 | ProactiveVideoQA: A Comprehensive Benchmark Evaluating Proactive Interactions in Video Large Language Models | [Paper](https://arxiv.org/abs/2507.09313) | [Code](https://github.com/yellow-binary-tree/ProactiveVideoQA) | 评估视频大语言模型主动交互能力的综合基准 |
+| 2025-05 | StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant | [Paper](https://arxiv.org/abs/2505.05467) | [Code](https://github.com/apple/ml-streambridge) | Apple出品，将离线Video-LLM无缝转换为流式主动助手，memory buffer+round-decayed压缩策略支持长上下文多轮交互，解耦轻量activation模型实现持续主动响应，NeurIPS 2025 |
 | 2024-11 | VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format | [Paper](https://arxiv.org/abs/2411.17991) | [Code](https://github.com/yellow-binary-tree/MMDuet) | 提出Video-Text Duet互动格式，让VideoLLM感知说话时机以提升时序视频理解 |
 
 ---
