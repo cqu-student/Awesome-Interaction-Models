@@ -59,6 +59,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2026-07 | Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning | [Paper](https://arxiv.org/abs/2607.14183) | [Code](https://github.com/ant-research/Open-AoE) | 开源以自我为中心操控数据集与工具链，含2000+小时操控视频，500+位贡献者采集，提供手部姿态、相机轨迹与原子动作标注，覆盖从手机采集到VLA/世界模型训练的全流程 |
 | 2026-07 | Vidu S1: A Real-Time Interactive Video Generation Model | [Paper](https://arxiv.org/abs/2607.03118) | [Demo](https://vidu.com/vidu-stream) | 实时交互视频生成，支持语音控制数字角色，540p下最高42FPS无限长度生成，消费级GPU即可运行 |
 | 2026-06 | LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory | [Paper](https://arxiv.org/abs/2606.17798) | [Code](https://github.com/sotayang/LiveStarPro) | 层次化记忆的主动流式视频理解，在连续视频流中自主决策何时发声 |
 | 2026-06 | JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence | [Paper](https://arxiv.org/abs/2606.14777) | [Code](https://github.com/jd-opensource/JoyAI-VL-Interaction) | 视觉驱动的VL交互模型，自主决策静默/响应/委托，实现实时视觉-语言交互智能 |
