@@ -38,6 +38,7 @@
 
 | Date | Title | Paper | Code | Comment |
 |------|-------|-------|------|---------|
+| 2026-07 | Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs | [Paper](https://arxiv.org/abs/2607.06540) | - | 提出 Lychee-FD 层次化声学-语义建模框架，首次揭示全双工 SLM 中模态干扰的根源（深层梯度冲突），通过参数分离与语义对齐通道实现高性能全双工交互，Spoken QA +7.4%，FullDuplexBench 1.5 +28.5% |
 | 2026-01 | PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models | [Paper](https://arxiv.org/abs/2602.06053) | [Code](https://github.com/NVIDIA/personaplex) | 面向实时 speech-to-speech 交互的全双工语音模型，在 Moshi 基础上加入了角色与声音控制 |
 | 2025-11 | Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents | [Paper](https://arxiv.org/abs/2511.07397) | [Code](https://github.com/vysri/conversational-infill) | 提出 conversational infill 方法，小模型即时生成响应隐藏大模型推理延迟，并流式融入推理结果，实现毫秒级首 token 延迟同时逼近前沿模型性能 |
 | 2025-07 | Full-Duplex-Bench v1.5: Evaluating Overlap Handling for Full-Duplex Speech Models | [Paper](https://arxiv.org/abs/2507.23159) | [Code](https://github.com/DanielLin94144/Full-Duplex-Bench) | Full-Duplex-Bench 的扩展版本，关注重叠语音处理，覆盖用户打断、听者附和、旁路对话和环境语音等场景 |
