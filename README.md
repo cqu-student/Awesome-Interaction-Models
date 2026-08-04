@@ -62,6 +62,7 @@
 | 2024-08 | Language Model Can Listen While Speaking | [Paper](https://arxiv.org/abs/2408.02622) | - | 提出 listening-while-speaking language model，让模型在生成语音时同时监听用户输入 |
 | 2024-05 | A Full-duplex Speech Dialogue Scheme Based On Large Language Models | [Paper](https://arxiv.org/abs/2405.19487) | - | 较早探索基于 LLM 的全双工语音对话方案，通过控制 token 决定等待、响应或打断 |
 | 2023-05 | Response-conditioned Turn-taking Prediction | [Paper](https://arxiv.org/abs/2305.02036) | - | 将轮次预测与候选回复联合建模，系统是否接管话轮不仅取决于用户是否说完，也取决于系统准备说出的回复是否适合当前位置 |
+|2022-09  | How Much Does Prosody Help Turn-taking? Investigations using Voice Activity Projection Models  | [Paper](https://aclanthology.org/2022.sigdial-1.51/) | [Page](https://erikekstedt.github.io/conv_ssl/) | 通过操纵基频、强度和频谱信息分析 VAP 的决策依据，说明模型能够隐式利用韵律线索预测轮次切换和附和位置 |
 | 2022-05 | Voice Activity Projection: Self-supervised Learning of Turn-taking Events | [Paper](https://arxiv.org/abs/2205.09812) | [Code](https://github.com/ErikEkstedt/VoiceActivityProjection) | 将轮次管理建模为未来双方语音活动预测，通过自监督目标统一支持 turn shift、hold、短回应和 backchannel 等事件预测 |
 | 2022-03 | Generative Spoken Dialogue Language Modeling | [Paper](https://arxiv.org/abs/2203.16502) | [Page](https://speechbot.github.io/dgslm/) | 提出 dGSLM，在双通道原始对话语音上进行无文本建模，可联合生成双方语音、笑声和副语言信号，是双流语音对话建模的重要前身 |
 | 2020-11 | TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog | [Paper](https://aclanthology.org/2020.findings-emnlp.268/) | [Code](https://github.com/ErikEkstedt/TurnGPT) | 利用语言上下文增量预测 turn shift，将语义和句法完整性引入轮次判断，代表从静音阈值向语义轮次预测的发展 |
